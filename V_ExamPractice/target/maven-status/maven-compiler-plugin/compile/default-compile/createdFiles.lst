@@ -1,0 +1,8 @@
+org\example\dao\UserRequestDao.class
+org\example\model\UserModel.class
+org\example\Main.class
+org\example\service\UserRequestService.class
+org\example\entity\UserRequestEntity$UserRequestEntityBuilder.class
+org\example\entity\UserRequestEntity.class
+org\example\dao\impl\UserRequestRequestDaoImpl.class
+org\example\config\BaseDao.class
