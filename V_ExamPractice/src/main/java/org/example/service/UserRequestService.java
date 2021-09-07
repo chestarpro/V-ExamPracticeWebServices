@@ -26,7 +26,7 @@ public class UserRequestService {
 
                 UserRequestEntity dBUser = new UserRequestRequestDaoImpl().saveUserRequest(userRequestEntity);
                 if(dBUser != null) {
-                    if(userRequestEntity.getYearOfBirth() < 2000 || userRequestEntity.getYearOfBirth() >= 2021)
+                    if(userRequestEntity.getYearOfBirth() > 2000)
                         throw new IllegalAccessException("Error! Incorrect data(year of birth)");
                     UserModel userModel = new UserModel();
                     userModel.setName(dBUser.getName());

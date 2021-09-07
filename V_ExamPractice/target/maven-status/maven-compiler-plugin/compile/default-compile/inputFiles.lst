@@ -1,7 +1,7 @@
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\dao\UserRequestDao.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\config\BaseDao.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\Main.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\dao\impl\UserRequestRequestDaoImpl.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\service\UserRequestService.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\entity\UserRequestEntity.java
-A:\it-academy\java\V_ExamPractice\src\main\java\org\example\model\UserModel.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\dao\UserRequestDao.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\Main.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\dao\impl\UserRequestRequestDaoImpl.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\model\UserModel.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\entity\UserRequestEntity.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\service\UserRequestService.java
+D:\it-academy\git\V-ExamPrcaticeWebServices\V_ExamPractice\src\main\java\org\example\config\BaseDao.java
